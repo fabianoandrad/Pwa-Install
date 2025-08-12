@@ -7,17 +7,10 @@
   "background_color": "#eeffee",
   "display": "standalone",
   "icons": [
+  
     {
-      "src": "favicon.ico",
-      "sizes": "48x48"
-    },
-    {
-      "src": "icons/circle.svg",
-      "sizes": "72x72 96x96",
-      "purpose": "maskable"
-    },
-    {
-      "src": "icons/wheel.svg",
+      "src": "icons/seiya.png",
+      "type": "image/png",
       "sizes": "512x512"
     }
   ]
